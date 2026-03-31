@@ -1,0 +1,115 @@
+body{
+    background-image: url(disrichywallpaperpics/sunpic1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    }
+    
+    
+    
+    
+    
+    topmain{background-color:  grey;} 
+    bodymain{background-color: black;}
+    body{background-color: black;}
+    
+    h1{color: white;}
+    h3{color: white;}
+    p3{color: white;}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    nav {
+      background-color: purple; /* Blue color */
+      text-align: center; /* Center the text */
+      padding: 1em; /* Add some padding */
+    }
+    
+    nav ul {
+      list-style: none; /* Remove bullet points */
+      margin: 0; /* Remove margins */
+      padding: 0; /* Remove padding */
+    }
+    
+    nav li {
+      display: inline-block; /* Display list items horizontally */
+      margin-right: 20px; /* Add some space between items */
+    }
+    
+    nav a {
+      color: #fff; /* White text color */
+      text-decoration: none; /* Remove underline */
+    }
+    
+    nav a:hover {
+      color: #ddd; /* Light gray on hover */
+    }
+    
+    .navbar{position: sticky;
+    top: 0;
+    }
+    
+    
+    .toptabs{margin-right: 40px;}
+    .musicproductiontitle{color: white;}
+    
+    stuff
+    
+    .marcospar1{color: white;}
+    .marcostitle{color: white;}
+    p2{color: white;}
+    .freeword{color: red;}
+    .bottomfontemailphone{font-size: 15px;}
+    .topemailinfo{color: white;}
+    .topemailinfo{float: right;}
+    
+    
+    .musicpar1{color: white;}
+    .mainpic1{float: right;}
+    .musicpar1{font-size: 20px;}
+    .mainpic1{margin-left:40px;}
+    .mainpar1{margin-right: 40px;}
+    stuff
+    
+    Holy fuck
+    
+    * {margin: 0;
+    padding: 0;}
+    
+    html, body{height: 100%;}
+    
+    #container1{min-height: 100%}
+    
+    #themainc{overflow: auto;
+    padding-bottom: 100px;}
+    
+    
+    .thefooter{
+    background-color: purplenevermind
+    position: relative:
+    height: 100px;
+    margin-top: -100px
+    clear: both;
+    
+    }
+    
+    .bottomgoogletab{float: top;}
+    .musicpic1{float: left;}
+    
+    .cfbutton{font-size: 20px;}
+    .cfbutton{margin-top: 30px;}
+    
+    .toptitle2{margin-bottom: 40px;}
+    
+    .emailfont{color: white;}
+    .bottomfont{color: white;}
+    .thegoog{color: white;}
+    
