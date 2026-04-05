@@ -77,6 +77,14 @@ body{
     .musicpar1{font-size: 20px;}
     .mainpic1{margin-left:40px;}
     .mainpar1{margin-right: 40px;}
+
+.mymusic{background-color: rgba(68, 94, 137, 0.147);}
+audio{color-scheme: calc() rgba(70, 70, 113, 0.798);}
+audio::-webkit-media-controls-panel {
+    background-color: #2b00ec97 !important;        /* Main bar background */
+  }
+  .mymusic{opacity: 0.35;}
+
     stuff
     
     Holy fuck
