@@ -1,5 +1,5 @@
 body{
-    background-image: url(disrichywallpaperpics/sunpic1.jpeg);
+    background-image: url(disrichywallpaperpics/sunpic2.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -83,7 +83,7 @@ audio{color-scheme: calc() rgba(70, 70, 113, 0.798);}
 audio::-webkit-media-controls-panel {
     background-color: #2b00ec97 !important;        /* Main bar background */
   }
-  .mymusic{opacity: 0.35;}
+  .mymusic{opacity: 0.75;}
 
     stuff
     
