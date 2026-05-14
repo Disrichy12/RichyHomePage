@@ -77,6 +77,9 @@ body{
     .musicpar1{font-size: 20px;}
     .mainpic1{margin-left:40px;}
     .mainpar1{margin-right: 40px;}
+    stuff
+    
+stuff in between
 
 .mymusic{background-color: rgba(68, 94, 137, 0.147);}
 audio{color-scheme: calc() rgba(70, 70, 113, 0.798);}
@@ -84,16 +87,208 @@ audio::-webkit-media-controls-panel {
     background-color: #2b00ec97 !important;        /* Main bar background */
   }
   .mymusic{opacity: 0.75;}
-.theeye{float: left;}
+
+  .thedigimon{float: left;}
+  .thedigivice{float: right;}
+
+  .theeye {
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .theeye:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+
+  .icon2{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon2:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
   
-.thedigimon{float: left;}
+  .icon3 {
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon3:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon4{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon4:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon5 {
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon5:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+
+  .icon6{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon6:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+
+  .icon7{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon7:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon8{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon8:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon9{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon9:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon10{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon10:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon11{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon11:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon12{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon12:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon13{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon13:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon14{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon14:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon15{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon15:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon16{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon16:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon17{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon17:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon18{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon18:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon19{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon19:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .thedigivice{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .thedigivice:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+  .icon21{
+    transition: transform 0.3s ease;   /* smooth animation */
+    cursor: pointer;
+  }
+
+  .icon21:hover {
+    transform: scale(1.1);             /* zooms in 10% */
+  }
+
+
+
   
 
-.thedigivice{float: right;}
 
-
-    stuff
-    
     Holy fuck
     
     * {margin: 0;
@@ -105,6 +300,8 @@ audio::-webkit-media-controls-panel {
     
     #themainc{overflow: auto;
     padding-bottom: 100px;}
+
+    .theeye{float: left;}
     
     
     .thefooter{
